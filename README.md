@@ -10,5 +10,5 @@ Flutter实现的仿微信飞机大战游戏
 
 **截图**
 
-![屏幕截图](./ScreenCapture/截图.png)
+![屏幕截图](https://raw.githubusercontent.com/chenyuebo/FlutterWechatPlaneFightGame/master/ScreenCapture/%E6%88%AA%E5%9B%BE.png)
 
